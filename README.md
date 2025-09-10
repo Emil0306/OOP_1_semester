@@ -1,1 +1,1 @@
-# OOP-1.-semester
+First semester object oriented programming in C#
