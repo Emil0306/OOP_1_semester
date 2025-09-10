@@ -1,0 +1,15 @@
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/bin/Debug/net9.0/area_of_circels
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/bin/Debug/net9.0/area_of_circels.deps.json
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/bin/Debug/net9.0/area_of_circels.runtimeconfig.json
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/bin/Debug/net9.0/area_of_circels.dll
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/bin/Debug/net9.0/area_of_circels.pdb
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.AssemblyInfoInputs.cache
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.AssemblyInfo.cs
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.csproj.CoreCompileInputs.cache
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.sourcelink.json
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.dll
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/refint/area_of_circels.dll
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.pdb
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/area_of_circels.genruntimeconfig.cache
+/mnt/c/github_repo/OOP_1_semester/area_of_circels/obj/Debug/net9.0/ref/area_of_circels.dll
