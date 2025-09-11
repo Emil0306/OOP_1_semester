@@ -1,0 +1,15 @@
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/bin/Debug/net9.0/celcius_to_fahrenheit
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/bin/Debug/net9.0/celcius_to_fahrenheit.deps.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/bin/Debug/net9.0/celcius_to_fahrenheit.runtimeconfig.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/bin/Debug/net9.0/celcius_to_fahrenheit.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/bin/Debug/net9.0/celcius_to_fahrenheit.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.AssemblyInfoInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.AssemblyInfo.cs
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.csproj.CoreCompileInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.sourcelink.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/refint/celcius_to_fahrenheit.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/celcius_to_fahrenheit.genruntimeconfig.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/celcius_to_fahrenheit/obj/Debug/net9.0/ref/celcius_to_fahrenheit.dll

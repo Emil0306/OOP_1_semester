@@ -1,0 +1,15 @@
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/bin/Debug/net9.0/Holidays
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/bin/Debug/net9.0/Holidays.deps.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/bin/Debug/net9.0/Holidays.runtimeconfig.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/bin/Debug/net9.0/Holidays.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/bin/Debug/net9.0/Holidays.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.AssemblyInfoInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.AssemblyInfo.cs
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.csproj.CoreCompileInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.sourcelink.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/refint/Holidays.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/Holidays.genruntimeconfig.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/Holidays/obj/Debug/net9.0/ref/Holidays.dll

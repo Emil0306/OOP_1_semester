@@ -1,0 +1,15 @@
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/bin/Debug/net9.0/dice
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/bin/Debug/net9.0/dice.deps.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/bin/Debug/net9.0/dice.runtimeconfig.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/bin/Debug/net9.0/dice.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/bin/Debug/net9.0/dice.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.AssemblyInfoInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.AssemblyInfo.cs
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.csproj.CoreCompileInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.sourcelink.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/refint/dice.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/dice.genruntimeconfig.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/dice/obj/Debug/net9.0/ref/dice.dll

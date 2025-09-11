@@ -1,0 +1,15 @@
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/bin/Debug/net9.0/lenght_of_month
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/bin/Debug/net9.0/lenght_of_month.deps.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/bin/Debug/net9.0/lenght_of_month.runtimeconfig.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/bin/Debug/net9.0/lenght_of_month.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/bin/Debug/net9.0/lenght_of_month.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.AssemblyInfoInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.AssemblyInfo.cs
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.csproj.CoreCompileInputs.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.sourcelink.json
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/refint/lenght_of_month.dll
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.pdb
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/lenght_of_month.genruntimeconfig.cache
+/mnt/c/github_repo/OOP_1_semester/10_09_2025_Control_flow/lenght_of_month/obj/Debug/net9.0/ref/lenght_of_month.dll
